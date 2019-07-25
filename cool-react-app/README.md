@@ -21,5 +21,9 @@
 
 #### Errors
 
+![Alt text](./assets/2-err1.png)
+- one of the commands was given a private permission parameter instead of 'public'
+
 <hr>
+
 
