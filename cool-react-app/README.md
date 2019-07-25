@@ -3,7 +3,15 @@
 
 ### Template 1
 
-![Alt text](./assets/1 cool react bucket not well formatted.png)
 
 #### Errors
 
+
+![Alt text](./assets/1-err1.png)
+
+
+![Alt text](./assets/1-err2.png)
+
+![Alt text](./assets/1-err3.png)
+
+![Alt text](./assets/1-err4.png)
