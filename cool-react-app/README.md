@@ -1,6 +1,12 @@
 
 # Fixing AWS Cloudformation Templates
 
+Exercise to fix AWS cloud formation YAML file.
+
+## Files Given
+1. [Template 1](https://codefellows.github.io/code-401-aws-guide/curriculum/17-deployment-troubleshoot/lab/aws-1.yml)
+2. [Template 2](https://codefellows.github.io/code-401-aws-guide/curriculum/17-deployment-troubleshoot/lab/aws-2.yml)
+
 ## Template 1
 
 #### Errors
